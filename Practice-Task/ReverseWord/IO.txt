@@ -1,0 +1,10 @@
+INPUT
+3
+one
+two
+three
+
+OUTPUT
+eno
+owt
+eerht

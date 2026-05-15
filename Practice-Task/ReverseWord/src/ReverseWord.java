@@ -1,7 +1,3 @@
-//3
-//one
-//two
-//three
 import java.util.Scanner;
 
 public class ReverseWord {
