@@ -4,9 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/APS.iml" filepath="$PROJECT_DIR$/.idea/APS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice-Task/Practice Task.iml" filepath="$PROJECT_DIR$/Practice-Task/Practice Task.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Practice-Task/PushZero/PushZero.iml" filepath="$PROJECT_DIR$/Practice-Task/PushZero/PushZero.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Practice-Task/RevenueTracker/RevenueTracker.iml" filepath="$PROJECT_DIR$/Practice-Task/RevenueTracker/RevenueTracker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Practice-Task/ReverseWord/ReverseWord.iml" filepath="$PROJECT_DIR$/Practice-Task/ReverseWord/ReverseWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Task/Introduction-To-Java/PushZero/PushZero.iml" filepath="$PROJECT_DIR$/Practice-Task/Introduction-To-Java/PushZero/PushZero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Task/Introduction-To-Java/RevenueTracker/RevenueTracker.iml" filepath="$PROJECT_DIR$/Practice-Task/Introduction-To-Java/RevenueTracker/RevenueTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Task/Introduction-To-Java/ReverseWord/ReverseWord.iml" filepath="$PROJECT_DIR$/Practice-Task/Introduction-To-Java/ReverseWord/ReverseWord.iml" />
     </modules>
   </component>
 </project>
