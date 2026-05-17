@@ -1,0 +1,12 @@
+For a given array with N integers, all the elements that are lower than the average of the whole array need to be deleted. For example for the array 1, 2, 3, 4, 5 the average is (1 + 2 + 3 + 4 + 5) / 5 = 15 / 5 = 3 which means that the elements 1 and 2 should be deleted, so the array after the transformation will be 3, 4, 5.
+Input: The first number in the input is the number of integers in the array N, then in the next line the elements are given, separated by spaces.
+
+Output: The array before and after the transformation.
+
+Input:
+5
+1 2 3 4 5
+
+Output:
+{1,2,3,4,5}
+{3,4,5}

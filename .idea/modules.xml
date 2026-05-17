@@ -3,8 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/APS.iml" filepath="$PROJECT_DIR$/.idea/APS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Task/Arrays-And-Lists/Arrays-And-Lists.iml" filepath="$PROJECT_DIR$/Practice-Task/Arrays-And-Lists/Arrays-And-Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Task/Arrays-And-Lists/Delete-Node-With-Less-Length/Delete-Node-With-Less-Length.iml" filepath="$PROJECT_DIR$/Practice-Task/Arrays-And-Lists/Delete-Node-With-Less-Length/Delete-Node-With-Less-Length.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Task/Arrays-And-Lists/Insert-After-L-Char/Insert-After-L-Char.iml" filepath="$PROJECT_DIR$/Practice-Task/Arrays-And-Lists/Insert-After-L-Char/Insert-After-L-Char.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Task/Arrays-And-Lists/Insert-Node-Before-Length/Insert-Node-Before-Length.iml" filepath="$PROJECT_DIR$/Practice-Task/Arrays-And-Lists/Insert-Node-Before-Length/Insert-Node-Before-Length.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Task/Arrays-And-Lists/Move-Node-To-Last-With-L/Move-Node-To-Last-With-L.iml" filepath="$PROJECT_DIR$/Practice-Task/Arrays-And-Lists/Move-Node-To-Last-With-L/Move-Node-To-Last-With-L.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice-Task/Practice Task.iml" filepath="$PROJECT_DIR$/Practice-Task/Practice Task.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice-Task/Introduction-To-Java/PushZero/PushZero.iml" filepath="$PROJECT_DIR$/Practice-Task/Introduction-To-Java/PushZero/PushZero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice-Task/Arrays-And-Lists/Remove-Lower-Than-Average/Remove-Lower-Than-Average.iml" filepath="$PROJECT_DIR$/Practice-Task/Arrays-And-Lists/Remove-Lower-Than-Average/Remove-Lower-Than-Average.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice-Task/Introduction-To-Java/RevenueTracker/RevenueTracker.iml" filepath="$PROJECT_DIR$/Practice-Task/Introduction-To-Java/RevenueTracker/RevenueTracker.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice-Task/Introduction-To-Java/ReverseWord/ReverseWord.iml" filepath="$PROJECT_DIR$/Practice-Task/Introduction-To-Java/ReverseWord/ReverseWord.iml" />
     </modules>
