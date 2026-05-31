@@ -73,9 +73,7 @@ public class Main{
             list.addToList(sc.nextInt());
         }
 
-        list.printList();
         list.moveToLeft(sc.nextInt(), num);
-        System.out.println();
         list.printList();
         sc.close();
     }
